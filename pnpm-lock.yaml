@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@astracms/astro-loader':
-        specifier: ^1.0.2
-        version: 1.0.2(astro@5.16.5(@types/node@24.10.2)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2))
+        specifier: ^1.0.3
+        version: 1.0.3(astro@5.16.5(@types/node@24.10.2)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2))
       '@astrojs/check':
         specifier: ^0.9.6
         version: 0.9.6(prettier-plugin-astro@0.14.1)(prettier@3.7.4)(typescript@5.9.3)
@@ -66,13 +66,13 @@ importers:
 
 packages:
 
-  '@astracms/astro-loader@1.0.2':
-    resolution: {integrity: sha512-XOaYCnZ5RJ0oYfLVg6YhUD6736YEfytv+eMmwi+JzYwK9HcWzRUpN+J5EXNOX+qbPW8oW/4HMABTh9PhNctvEw==}
+  '@astracms/astro-loader@1.0.3':
+    resolution: {integrity: sha512-KiSD/iLBX8jT1K/K0lz94EniDKYFKVGD/fsCkYTgS2sOR/RoHCz5g/xFthnTXWYsrcEr3VATGC5/OWLaGAa22g==}
     peerDependencies:
       astro: ^5.0.0
 
-  '@astracms/core@1.0.2':
-    resolution: {integrity: sha512-/Gu8iMa4JBU8wB1Me4HgIRdt7e8DKMJyvP84+Octt1gNsuYiQICUiL0QzBaH6P2/D70xj1XWC3nBM3qHnLRYQA==}
+  '@astracms/core@1.0.3':
+    resolution: {integrity: sha512-TAoKJFVwtQU1dLYYFumleKtYpEVBv/x+sSvQscp+EFqLOXU46I0f2tRE8FU9/IJ0nkhwWOQHmqoo+jW5xbvvfg==}
 
   '@astrojs/check@0.9.6':
     resolution: {integrity: sha512-jlaEu5SxvSgmfGIFfNgcn5/f+29H61NJzEMfAZ82Xopr4XBchXB1GVlcJsE+elUlsYSbXlptZLX+JMG3b/wZEA==}
@@ -2844,13 +2844,13 @@ packages:
 
 snapshots:
 
-  '@astracms/astro-loader@1.0.2(astro@5.16.5(@types/node@24.10.2)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2))':
+  '@astracms/astro-loader@1.0.3(astro@5.16.5(@types/node@24.10.2)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2))':
     dependencies:
-      '@astracms/core': 1.0.2
+      '@astracms/core': 1.0.3
       astro: 5.16.5(@types/node@24.10.2)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.53.3)(typescript@5.9.3)(yaml@2.8.2)
       zod: 3.25.76
 
-  '@astracms/core@1.0.2':
+  '@astracms/core@1.0.3':
     dependencies:
       zod: 3.25.76
 

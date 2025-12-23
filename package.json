@@ -13,7 +13,7 @@
     "sync": "astro sync"
   },
   "dependencies": {
-    "@astracms/astro-loader": "^1.0.2",
+    "@astracms/astro-loader": "^1.0.3",
     "@astrojs/check": "^0.9.6",
     "@astrojs/partytown": "^2.1.4",
     "@astrojs/sitemap": "^3.6.0",
