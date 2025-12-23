@@ -1,5 +1,7 @@
 # SkyScript
 
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build/themes/details/skyscript)
+
 **SkyScript** is a modern, content-first blog starter built with **Astro v5**, **Tailwind CSS v4**, and **AstraCMS**. Designed for SEO optimization and responsiveness across all devices, it's perfect for personal blogs, company blogs, and content-focused websites.
 
 ## Features
