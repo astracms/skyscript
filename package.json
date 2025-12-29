@@ -18,11 +18,11 @@
     "@astrojs/partytown": "^2.1.4",
     "@astrojs/sitemap": "^3.6.0",
     "@astrojs/vercel": "^9.0.2",
-    "@tailwindcss/vite": "^4.1.17",
+    "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.16.5",
     "github-slugger": "^2.0.0",
     "sharp": "^0.33.5",
-    "tailwindcss": "^4.1.17",
+    "tailwindcss": "^4.1.18",
     "typescript": "^5.5.4"
   },
   "packageManager": "pnpm@10.25.0",
